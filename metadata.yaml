@@ -1,0 +1,35 @@
+_repo: The-Transformation-of-Early-Christianity-from-an-Eschatological-to-a-Socialized-Movementof-Do__40929
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40929-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edwards, Lyford P. (Lyford Paterson)
+    alias: Edwards, Lyford Paterson
+    birthdate: 1882
+    deathdate: 1984
+    gutenberg_agent_id: '40902'
+    url: http://www.gutenberg.org/2009/agents/40902
+description: ''
+gutenberg_issued: '2012-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40929'
+  lccn: '20001301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Theology -- History -- Early Church, ca. 30-600'
+- !lcsh 'Christian sociology -- History -- Early church, ca. 30-600'
+- !lcsh 'Eschatology -- History of doctrines'
+tableOfContents: Political theories of the early Christians -- The early Church and
+  property concepts -- The early Church and the populace -- Chiliasm and patriotism
+  -- Chiliasm and social theory.
+title: "The Transformation of Early Christianity from an Eschatological to a Socialized\
+  \ Movement\r\nA Dissertation Submitted to the Faculty of the Graduate School of\
+  \ Arts and Literature in Candidacy for the Degree of Doctor of Philosophy"
+url: http://www.gutenberg.org/ebooks/40929
